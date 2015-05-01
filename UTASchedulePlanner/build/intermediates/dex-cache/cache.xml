@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-6baac8665686ace9c889d5e99b8c34867421dde3.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-2fcc535bc38f6a922f48bbb6ee9b87512c464f4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-0b834603b31083871b01c59ff46fc74947892a46.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-f1bab288041bf26ea248f622e660cdceaa51daf6.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-213cb381b5db9d65dbcae67cb83a3218f3a98aca.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-a5c0b2f40ef3a65998ea3756926822e7134bbed0.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-14be26f83be543a40a0196b8cc993a5f29ade424.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-f3a2a054aeee99e93b465ed3071d21c916448d60.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-f35014724f1fdc16219e37245d4ea7a01022bf54.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-7d83047dc3fe0f6097013feefe95da6ca4bfc6c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-04ef7fae5dac4f3d852cd40cad393a8e20bc9aaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-1237591aca630512e4fe23160b49c2ed2a316d23.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-b2527784738e10784f594f6fe13accad1444e889.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-cb6b037247ee18c35d7f7300da0201071eeb61e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-11b0e0ba95b940dde17ec17aa4173a5f74c4a39f.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-085cd651f4c34b8e3840b225c16a1a9161e9d4f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-3c13f8844dab5d2d8da4e58ca4be8434b96018dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-80fac83f54ca17a8a21f852f1bb53733f0cf4527.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-590ea9e36bd9f43643d94f327df776b4941ae3f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-27125e6e40442daa8214c70b8b4fe5326f38306f.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-0c8d8591ebe4e7567306ad71f11ba448e51883ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2810b91bf3f148531cdb5a46ab12aba4515fa815.jar" />
+    </item>
+    <item
+        jar="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\laosd_000\Desktop\UTASchedulePlanner\app\build\intermediates\pre-dexed\debug\classes-329bf65393f7dd8ea8502bbd3c02e3399cb49b63.jar" />
+    </item>
+
+</items>
