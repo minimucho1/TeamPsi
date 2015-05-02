@@ -1909,6 +1909,7 @@ containing a value of this type.
         public static final int ic_plusone_tall_off_client=0x7f020058;
         public static final int powered_by_google_dark=0x7f020059;
         public static final int powered_by_google_light=0x7f02005a;
+        public static final int test=0x7f02005b;
     }
     public static final class id {
         public static final int action_bar=0x7f0a0055;

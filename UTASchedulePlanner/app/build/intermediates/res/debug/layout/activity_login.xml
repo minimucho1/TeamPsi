@@ -31,4 +31,4 @@
         android:layout_height="wrap_content"
         android:text="New User"
         android:id="@+id/newUserButton" />
-</LinearLayout><!-- From: file:/C:/Users/laosd_000/Desktop/UTASchedulePlanner/app/src/main/res/layout/activity_login.xml -->
+</LinearLayout><!-- From: file:/C:/Users/JR/Documents/School/Spring%202015/CSE%203310/UTA/trunk/UTASchedulePlanner/app/src/main/res/layout/activity_login.xml -->

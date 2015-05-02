@@ -20,12 +20,11 @@ public class Login extends Activity {
 
         inputName = (EditText) findViewById(R.id.name);
         inputPassword = (EditText) findViewById(R.id.password);
-        Button btnNextScreen = (Button) findViewById(R.id.btnNextScreen);
+        Button submitButton = (Button) findViewById(R.id.btnNextScreen);
         Button newUserButton = (Button) findViewById(R.id.newUserButton);
 
         //Listening to button event
-        btnNextScreen.setOnClickListener(new View.OnClickListener() {
-
+        submitButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View arg0) {
                 //Starting a new Intent
                 Intent nextScreen = new Intent(getApplicationContext(), MainActivity.class);
