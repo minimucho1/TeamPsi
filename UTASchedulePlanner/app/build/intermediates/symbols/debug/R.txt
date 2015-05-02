@@ -514,8 +514,8 @@ int id action_menu_presenter 0x7f0a0003
 int id action_mode_bar 0x7f0a0052
 int id action_mode_bar_stub 0x7f0a0051
 int id action_mode_close_button 0x7f0a003a
-int id action_settings 0x7f0a006b
-int id action_signout 0x7f0a006c
+int id action_settings 0x7f0a0070
+int id action_signout 0x7f0a0071
 int id activity_chooser_view_content 0x7f0a003b
 int id adjust_height 0x7f0a0017
 int id adjust_width 0x7f0a0018
@@ -524,6 +524,7 @@ int id always 0x7f0a001c
 int id beginning 0x7f0a0014
 int id book_now 0x7f0a0031
 int id btnNextScreen 0x7f0a0067
+int id button 0x7f0a006e
 int id buttonPanel 0x7f0a004b
 int id buyButton 0x7f0a002e
 int id buy_now 0x7f0a0032
@@ -536,11 +537,13 @@ int id custom 0x7f0a004a
 int id customPanel 0x7f0a0049
 int id decor_content_parent 0x7f0a0053
 int id default_activity_button 0x7f0a003e
-int id delButton 0x7f0a006a
+int id delButton 0x7f0a006f
 int id dialog 0x7f0a0021
 int id disableHome 0x7f0a000c
 int id donate_with_google 0x7f0a0034
 int id dropdown 0x7f0a0022
+int id editText 0x7f0a006c
+int id editText2 0x7f0a006d
 int id edit_query 0x7f0a0057
 int id end 0x7f0a0015
 int id expand_activities_button 0x7f0a003c
@@ -603,6 +606,8 @@ int id tabMode 0x7f0a000b
 int id tabspager 0x7f0a0069
 int id terrain 0x7f0a001b
 int id textSpacerNoButtons 0x7f0a0048
+int id textView 0x7f0a006b
+int id textView2 0x7f0a006a
 int id title 0x7f0a0041
 int id title_template 0x7f0a0044
 int id topPanel 0x7f0a0043

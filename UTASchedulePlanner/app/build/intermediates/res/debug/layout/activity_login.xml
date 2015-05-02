@@ -25,10 +25,8 @@
         android:layout_height="wrap_content"
         android:text="Login"
         android:layout_marginTop="15dip"/>
-
-    <Button
+    <Button android:id="@+id/newUserButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New User"
-        android:id="@+id/newUserButton" />
-</LinearLayout><!-- From: file:/C:/Users/JR/Documents/School/Spring%202015/CSE%203310/UTA/trunk/UTASchedulePlanner/app/src/main/res/layout/activity_login.xml -->
+        android:text="New User" />
+</LinearLayout><!-- From: file:/C:/Users/Awesome-O/Desktop/New%20folder/trunk/UTASchedulePlanner/app/src/main/res/layout/activity_login.xml -->
